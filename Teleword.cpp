@@ -221,7 +221,7 @@ void statistics(float sum, float count)
 }
 void inputpuzzle()
 {
-	ifstream readfile("tellyword.txt");
+	ifstream readfile("teleword.txt");
 	for (int i = 0; i < 15; i++)
 	{
 		for (int j = 0; j < 15; j++)
